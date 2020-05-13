@@ -1,0 +1,16 @@
+sample\Controller.class
+main\Indexer.class
+main\Ranker$1.class
+sample\Controller$2.class
+main\QueryTerm.class
+sample\Controller$1.class
+main\Ranker$2.class
+main\Stemmer.class
+sample\Controller$3.class
+sample\Controller$4.class
+main\Ranker.class
+main\ReadFile.class
+main\Parse.class
+main\BM25.class
+sample\Main.class
+main\Searcher.class
